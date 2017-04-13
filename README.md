@@ -8,12 +8,12 @@ Renders hundreds of high-poly dynamic splines at 60fps on gles2 devices with low
 Usage
 -------
 
-// add a single spline
-*SplineBatcher.Add(Vector2[], int numVertices))*
-// generate the batches
-*SplineBatcher.Generate()*
-// animate the splines at runtime
-*SplineBatcher.Modify(Vector2[])*
+// add a single spline<br />
+*SplineBatcher.Add(Vector2[], int numVertices))*<br />
+// generate the batches<br />
+*SplineBatcher.Generate()*<br />
+// animate the splines at runtime<br />
+*SplineBatcher.Modify(Vector2[])*<br />
 
 System Requirements
 -------
